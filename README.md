@@ -29,7 +29,7 @@ Me chamo Maikon Douglas, tenho 22 anos e sou natural de Minas Gerais. Atualmente
     title="JAVA"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficons%2Fset%2Fjava&psig=AOvVaw2xZudGe04o9elv7xhtBf1Q&ust=1764870604299000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCICGu8D9oZEDFQAAAAAdAAAAABAE)" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
